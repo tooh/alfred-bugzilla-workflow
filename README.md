@@ -2,7 +2,7 @@ Alfred workflow for Bugzilla
 
 ## Install
 
-Foir now I distribute the workflow as a .alfredworkflow zip.
+For now I distribute the workflow as a .alfredworkflow zip.
 
 ## Bug tracker
 

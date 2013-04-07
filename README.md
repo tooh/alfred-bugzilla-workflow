@@ -41,5 +41,5 @@ Have a bug or a feature request? Please open a new issue. Before opening any iss
 
 ## Copyright and license
 
-This work is licenced under the MIT licence. For miore details see licence.txt file
+This work is licenced under the MIT licence. For miore details see LICENSE.txt file
 

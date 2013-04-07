@@ -13,7 +13,7 @@ In this version the URI is configured for the Mozilla Bugzilla server. This must
 
 In the Open URL workflow step
 
-![Open URL config](/images/open-url-config.png)
+![Open URL config](images/open-url-config.png)
 
 
 In the Run script step

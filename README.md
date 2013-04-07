@@ -16,7 +16,7 @@ The workflow needs some configuration.
 
 Have a bug or a feature request? Please open a new issue. Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas Gallagher](https://github.com/necolas/).
 
-## Authors
+## Author
 
 **Peter Florijn**
 

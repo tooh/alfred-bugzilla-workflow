@@ -11,6 +11,8 @@ The workflow needs some configuration.
 
 In this version the URI is configured for the Mozilla Bugzilla server. This must be changed if you use your own server.
 
+![Open URL config](/images/open-url-config.png)
+
 ```perl
     my $Bugzilla_uri= "http:///bugzilla.mozilla.org/xmlrpc.cgi";
 ```

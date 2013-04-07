@@ -2,16 +2,15 @@
 
 ## Install
 
-For now I distribute the workflow as a .alfredworkflow zip.
+For now I distribute the workflow as a .alfredworkflow zip file.
+Download the zip, expand it and Install the workflow as usual.
 
 ## Setup
-
-Install the workflow as usual.
 
 The workflow needs some configuration.
 
 1. In this version the URI is configured for the Mozilla Bugzilla server. This must be changed if you use your own server.
-2. The worflow uses the Bugzilla XMLRPC swebservices. You have to supply your username and password. This has to be configured in the supplied perl script.
+2. The workflow uses the Bugzilla XMLRPC webservices. You have to supply your username and password. This has to be configured in the supplied perl script.
 
 ## Bug tracker
 

@@ -9,13 +9,13 @@ Download the zip, expand it and Install the workflow as usual.
 
 The workflow needs some configuration.
 
-1. In this version the URI is configured for the Mozilla Bugzilla server. This must be changed if you use your own server.
+In this version the URI is configured for the Mozilla Bugzilla server. This must be changed if you use your own server.
 
 ```perl
     my $Bugzilla_uri= "http:///bugzilla.mozilla.org/xmlrpc.cgi";
 ```
 
-2. The workflow uses the Bugzilla XMLRPC webservices. You have to supply your username and password. This has to be configured in the supplied perl script.
+The workflow uses the Bugzilla XMLRPC webservices. You have to supply your username and password. This has to be configured in the supplied perl script.
 
 ```perl
     

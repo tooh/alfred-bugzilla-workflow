@@ -1,4 +1,4 @@
-Alfred workflow for Bugzilla
+#Alfred workflow for Bugzilla
 
 ## Install
 

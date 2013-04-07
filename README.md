@@ -13,10 +13,10 @@ The workflow needs some configuration.
 2. The workflow uses the Bugzilla XMLRPC webservices. You have to supply your username and password. This has to be configured in the supplied perl script.
 
 
-my $Bugzilla_uri= "http:///bugzilla.mozilla.org/xmlrpc.cgi";
-my $Bugzilla_login = "";                # your account
-my $Bugzilla_password = "";             # your password
-my $Bugzilla_remember = 1;
+    my $Bugzilla_uri= "http:///bugzilla.mozilla.org/xmlrpc.cgi";
+    my $Bugzilla_login = "";                # your account
+    my $Bugzilla_password = "";             # your password
+    my $Bugzilla_remember = 1;
 
 
 ## Bug tracker

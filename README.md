@@ -14,8 +14,11 @@ The workflow needs some configuration.
 
 
     my $Bugzilla_uri= "http:///bugzilla.mozilla.org/xmlrpc.cgi";
+    
     my $Bugzilla_login = "";                # your account
+    
     my $Bugzilla_password = "";             # your password
+    
     my $Bugzilla_remember = 1;
 
 
